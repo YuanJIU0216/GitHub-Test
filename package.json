@@ -1,0 +1,11 @@
+{
+  "name": "github-test",
+  "version": "1.0.0",
+  "description": "Here is for the description of your work to other designer like tutor in Deco2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
